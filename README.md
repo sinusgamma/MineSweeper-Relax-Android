@@ -2,6 +2,8 @@
 
 ## Minesweeper game built with Unity and C#
 
+![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper-scenes.jpg)
+
 ### I didn't implement the new requirements for add containing apps by Google Play, so the game isn't downloadable there. Sorry, I have no time for that.
 
 Last version: [a link](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/ms_relax17.apk)
@@ -36,3 +38,12 @@ Pro version:
 
 No ads
 Unlock instantly all unlockables.
+
+![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/Top%20View.png)
+![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper_tablet.jpg)
+![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper-custom-levels.jpg)
+![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper-free-time.jpg)
+![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper-morocco.jpg)
+![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper-leaderboards.jpg)
+![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper-relax.jpg)
+![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper_play.jpg)
