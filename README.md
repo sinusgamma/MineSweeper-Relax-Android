@@ -4,7 +4,7 @@
 
 ### I didn't implement the new requirements for add containing apps by Google Play, so the game isn't downloadable there. Sorry, I have no time for that.
 
-Last version: 
+Last version: [a link](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/ms_relax17.apk)
 
 Website: http://sinusgamma.wixsite.com/minesweeper
 
