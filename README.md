@@ -10,6 +10,8 @@ Last version: [a link](https://github.com/sinusgamma/MineSweeper-Relax-Android/b
 
 Website: http://sinusgamma.wixsite.com/minesweeper
 
+linkedin: https://www.linkedin.com/in/veber-istvan/
+
 Play this free minesweeper game with relaxing music and three different modern styles. There are four levels and you can customize your board. You have unlockable features, funny winning quotes and wise losing quotes. Minesweeper Relax has smooth touch control with zoom. You can share your score and best time on online leaderboards and unlock online achievements.
 
 The objective of the game is to clear a rectangular board containing hidden "mines" without detonating any of them, with help from clues about the number of neighboring mines in each field.
@@ -40,7 +42,7 @@ No ads
 Unlock instantly all unlockables.
 
 ![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/Top%20View.png)
-![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper_tablet.jpg)
+![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper-tablet.jpg)
 ![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper-custom-levels.jpg)
 ![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper-free-time.jpg)
 ![alt text](https://github.com/sinusgamma/MineSweeper-Relax-Android/blob/master/images/minesweeper-morocco.jpg)
